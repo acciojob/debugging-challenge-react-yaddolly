@@ -1,12 +1,15 @@
+.ball{
+    text-align: center;
+}
+
 h1 {
     color: #27aedb;
-    text-align: center;
+    /* text-align: center; */
     }
     
-
 button{
     color: #27aedb;
-    text-align: center;
+    /* text-align: center; */
     justify-content: center;
     align-items: center;
 }
